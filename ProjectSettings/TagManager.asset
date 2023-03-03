@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - wall
+  - Enemy
+  - Botton
+  - Hole
+  - Road
+  - Door
+  - JumpRang
+  - Bullet
+  - Bombs
+  - Cylinder
+  - Stone
+  - Enemy1
+  - Food
+  - Coin
+  - Boss
+  - Enemy2
+  - DieEnemy
+  - Enemy4
+  - Enemy5
+  - Partner
+  - Gun
+  - O2
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - Wall
+  - Guns
+  - explosion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - tile
+  - Player
+  - Partner
+  - JumpRang
+  - O2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
